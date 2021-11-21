@@ -9,7 +9,7 @@ docker-compose build
 ## How to run tests
 
 ```shell
-docker-compose run python -m unittest -v 
+docker-compose run web python -m unittest -v 
 ```
 
 ## How to run application
